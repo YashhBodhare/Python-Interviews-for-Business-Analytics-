@@ -1,0 +1,352 @@
+[
+  {
+    "id": "PY-01",
+    "source": "01-top-50(1).pdf",
+    "source_question": 1,
+    "topic": "Values, identity and missing inputs",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-02",
+    "source": "01-top-50(1).pdf",
+    "source_question": 2,
+    "topic": "Mutable data and shared references",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-03",
+    "source": "01-top-50(1).pdf",
+    "source_question": 3,
+    "topic": "Fresh defaults for every call",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-04",
+    "source": "01-top-50(1).pdf",
+    "source_question": 4,
+    "topic": "Choosing a list or a lazy expression",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-05",
+    "source": "01-top-50(1).pdf",
+    "source_question": 5,
+    "topic": "Dictionary and set comprehensions",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-06",
+    "source": "01-top-50(1).pdf",
+    "source_question": 6,
+    "topic": "Flexible arguments and clear signatures",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-07",
+    "source": "01-top-50(1).pdf",
+    "source_question": 7,
+    "topic": "Lambda functions and captured variables",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-08",
+    "source": "01-top-50(1).pdf",
+    "source_question": 8,
+    "topic": "Truthiness without losing valid zeros",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-09",
+    "source": "01-top-50(1).pdf",
+    "source_question": 9,
+    "topic": "Business identity, equality and hashing",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-10",
+    "source": "01-top-50(1).pdf",
+    "source_question": 10,
+    "topic": "Assignment expressions",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-11",
+    "source": "01-top-50(1).pdf",
+    "source_question": 11,
+    "topic": "Decorators for shared behaviour",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-12",
+    "source": "01-top-50(1).pdf",
+    "source_question": 12,
+    "topic": "Decorator ordering",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-13",
+    "source": "01-top-50(1).pdf",
+    "source_question": 13,
+    "topic": "Preserving function metadata",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-14",
+    "source": "01-top-50(1).pdf",
+    "source_question": 14,
+    "topic": "Configurable decorators",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-15",
+    "source": "01-top-50(1).pdf",
+    "source_question": 15,
+    "topic": "Stateful callable wrappers",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-16",
+    "source": "01-top-50(1).pdf",
+    "source_question": 16,
+    "topic": "Iterator and generator protocols",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-17",
+    "source": "01-top-50(1).pdf",
+    "source_question": 17,
+    "topic": "Materialising results for reuse",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-18",
+    "source": "01-top-50(1).pdf",
+    "source_question": 18,
+    "topic": "Delegating with yield from",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-19",
+    "source": "01-top-50(1).pdf",
+    "source_question": 19,
+    "topic": "Consumed iterators",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-20",
+    "source": "01-top-50(1).pdf",
+    "source_question": 20,
+    "topic": "Memoisation with cache and lru_cache",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-21",
+    "source": "01-top-50(1).pdf",
+    "source_question": 21,
+    "topic": "Creating and initialising objects",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-22",
+    "source": "01-top-50(1).pdf",
+    "source_question": 22,
+    "topic": "Method resolution and super",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-23",
+    "source": "01-top-50(1).pdf",
+    "source_question": 23,
+    "topic": "Instance, class and static methods",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-24",
+    "source": "01-top-50(1).pdf",
+    "source_question": 24,
+    "topic": "Slots and object layout",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-25",
+    "source": "01-top-50(1).pdf",
+    "source_question": 25,
+    "topic": "Readable and diagnostic representations",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-26",
+    "source": "01-top-50(1).pdf",
+    "source_question": 26,
+    "topic": "Dataclasses and safe field defaults",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-27",
+    "source": "01-top-50(1).pdf",
+    "source_question": 27,
+    "topic": "Composition and inheritance",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-28",
+    "source": "01-top-50(1).pdf",
+    "source_question": 28,
+    "topic": "Abstract classes and structural contracts",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-29",
+    "source": "01-top-50(1).pdf",
+    "source_question": 29,
+    "topic": "Stable hashes and deduplication",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-30",
+    "source": "01-top-50(1).pdf",
+    "source_question": 30,
+    "topic": "Properties for computed values",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-31",
+    "source": "01-top-50(1).pdf",
+    "source_question": 31,
+    "topic": "Checking first or handling failure",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-32",
+    "source": "01-top-50(1).pdf",
+    "source_question": 32,
+    "topic": "The try statement lifecycle",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-33",
+    "source": "01-top-50(1).pdf",
+    "source_question": 33,
+    "topic": "Business-specific exceptions",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-34",
+    "source": "01-top-50(1).pdf",
+    "source_question": 34,
+    "topic": "Preserving the cause of failure",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-35",
+    "source": "01-top-50(1).pdf",
+    "source_question": 35,
+    "topic": "Handling multiple failures",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-36",
+    "source": "01-top-50(1).pdf",
+    "source_question": 36,
+    "topic": "Nullable type hints",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-37",
+    "source": "01-top-50(1).pdf",
+    "source_question": 37,
+    "topic": "Union types and normalisation",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-38",
+    "source": "01-top-50(1).pdf",
+    "source_question": 38,
+    "topic": "Protocols for interchangeable providers",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-39",
+    "source": "01-top-50(1).pdf",
+    "source_question": 39,
+    "topic": "Safe script entry points",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-40",
+    "source": "01-top-50(1).pdf",
+    "source_question": 40,
+    "topic": "Imports and package structure",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-41",
+    "source": "01-top-50(1).pdf",
+    "source_question": 41,
+    "topic": "The GIL and workload limits",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-42",
+    "source": "01-top-50(1).pdf",
+    "source_question": 42,
+    "topic": "Choosing threads, processes or asyncio",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-43",
+    "source": "01-top-50(1).pdf",
+    "source_question": 43,
+    "topic": "Coroutines and await",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-44",
+    "source": "01-top-50(1).pdf",
+    "source_question": 44,
+    "topic": "Starting an async program",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-45",
+    "source": "01-top-50(1).pdf",
+    "source_question": 45,
+    "topic": "Concurrent tasks and failure policy",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-46",
+    "source": "01-top-50(1).pdf",
+    "source_question": 46,
+    "topic": "Timeouts and cancellation",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-47",
+    "source": "01-top-50(1).pdf",
+    "source_question": 47,
+    "topic": "Locks and shared invariants",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-48",
+    "source": "01-top-50(1).pdf",
+    "source_question": 48,
+    "topic": "Process pools for independent computation",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-49",
+    "source": "01-top-50(1).pdf",
+    "source_question": 49,
+    "topic": "Executors and futures",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  },
+  {
+    "id": "PY-50",
+    "source": "01-top-50(1).pdf",
+    "source_question": 50,
+    "topic": "Optional free-threaded CPython",
+    "treatment": "Newly worded question, explanation, code and hypothetical business application"
+  }
+]
